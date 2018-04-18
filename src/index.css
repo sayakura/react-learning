@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+p{
+	margin: 0;
+}
+.note{
+	height:100px;
+	width:100px;
+	background-color: pink;
+	border-radius:10px;
+}
+.note p{
+	padding:10px;
+}
+.note-button{
+	margin-left:15%;
+}
